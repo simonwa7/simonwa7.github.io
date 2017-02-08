@@ -11,6 +11,7 @@ Purpose:
 Aknowledgements: N/A
 
 Files:
+
     index.html
         This is the default page loaded by the browser when requested through
         the url's "https://www.cs.tufts.edu/~wsimon02", 
