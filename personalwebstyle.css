@@ -1,0 +1,78 @@
+body {
+    background-color: #c7d0dd;
+}
+
+body.index_back {
+    padding-top: 10%;
+    background-image: url(ohio.svg);
+    background-size: 35%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h1.center {
+    text-align: center;
+    text-shadow: 1px 1px black;
+}
+
+h3.indent {
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+}
+
+p.indent {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.tabbed {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.double_tabbed {
+    padding-right: 20%;
+    padding-left: 20%;
+}
+
+img.main {
+    width: 15%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+img.secondary {
+    width: 50%;
+}
+
+h1.bio_header {
+    padding-left: 10%;
+    width: 20%;
+    height: auto;
+}
+
+.mountain {
+    background-image: url(Colorado_008.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.faded {
+    background-color: darkgrey;
+    opacity: .85;
+    color: white;
+}
+
+.shadow {
+    text-shadow: .5px .5px black;
+    margin-right: 40%;
+    margin-left: 40%;
+    text-align: center;
+}
+
+a.no_underline {
+    text-decoration: none;
+    color: maroon;
+}
